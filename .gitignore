@@ -100,3 +100,8 @@ dmypy.json
 .turbo
 .editorconfig
 .scratch
+
+# 产生的各种数据文件
+*.csv
+*.json
+*.jsonl
