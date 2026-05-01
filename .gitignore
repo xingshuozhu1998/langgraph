@@ -101,6 +101,9 @@ dmypy.json
 .editorconfig
 .scratch
 
+# zhuxs_learn config with secrets
+zhuxs_learn/**/config.py
+
 # 产生的各种数据文件
 *.csv
 *.json
